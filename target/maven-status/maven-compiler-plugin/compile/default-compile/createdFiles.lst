@@ -1,0 +1,12 @@
+com\capgemini\ecommerce\entity\ProductSpecification.class
+com\capgemini\ecommerce\dao\CategoryDaoImpl.class
+com\capgemini\ecommerce\util\EcomRepo.class
+com\capgemini\ecommerce\dao\ProductDao.class
+com\capgemini\ecommerce\entity\Product.class
+com\capgemini\ecommerce\service\EcomSerImpl.class
+com\capgemini\ecommerce\dao\CategoryDao.class
+com\capgemini\ecommerce\exception\IdException.class
+com\capgemini\ecommerce\entity\Category.class
+com\capgemini\ecommerce\dao\ProductDaoImpl.class
+com\capgemini\ecommerce\service\EcommerceService.class
+com\capgemini\ecommerce\exception\ValidateException.class
